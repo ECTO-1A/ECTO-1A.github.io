@@ -12,7 +12,7 @@ If you're looking to flash **OpenWRT** onto your **Google Wifi (OnHub)** device,
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 You'll need:
 
@@ -23,7 +23,7 @@ You'll need:
 
 ---
 
-## 🔧 Step 1: Create the Recovery USB
+## Step 1: Create the Recovery USB
 
 1. Install the OnHub Recovery Utility extension in Chrome.
 2. Use the extension to create a recovery USB stick.  
@@ -31,7 +31,7 @@ You'll need:
 
 ---
 
-## ⚙️ Step 2: Flash the Recovery Image
+## Step 2: Flash the Recovery Image
 
 1. Power the USB hub.
 2. Press and hold the **Reset** button on the front of the Google Wifi.
@@ -48,7 +48,7 @@ Now you're ready to flash OpenWRT!
 
 ---
 
-## 🚀 Step 3: Flash OpenWRT Image
+## Step 3: Flash OpenWRT Image
 
 1. Connect a network cable from your PC to the **LAN port** of the Google Wifi.
 2. Plug the **OpenWRT USB drive** into the **USB-C hub with power delivery (PD)**.
@@ -74,7 +74,7 @@ Now you're ready to flash OpenWRT!
 
 ---
 
-## 🖥️ Step 4: Final Flash to Internal Storage
+## Step 4: Final Flash to Internal Storage
 
 1. Open a terminal on your PC.
 2. `cd` into the directory where you downloaded the OpenWRT image:
@@ -98,4 +98,4 @@ Now you're ready to flash OpenWRT!
 
 ---
 
-You’re done! Your Google Wifi should now be running OpenWRT. 🎉
+You’re done! Your Google Wifi should now be running OpenWRT!
