@@ -2,7 +2,8 @@
 layout: post
 title: "Installing OpenWRT on Google Wifi (OnHub)"
 date: 2025-04-14
-categories: [networking, openwrt, googlewifi, tutorial]
+categories: [coding projects, cybersecurity]
+tags: [openwrt, googlewifi, tutorial]
 author: chris
 image: assets/images/googlewifi.png 
 ---
