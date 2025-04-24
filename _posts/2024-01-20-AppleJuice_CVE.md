@@ -15,7 +15,7 @@ In late 2023, a critical vulnerability in Apple’s Bluetooth Low Energy (BLE) p
 
 ## Flipper Zero: From Penetration Tester to iPhone Jammer
 
-The Flipper Zero was originally designed for hobbyists and cybersecurity professionals. It’s a Swiss Army knife for wireless protocols—capable of reading RFID cards, emulating NFC tags, and spoofing Bluetooth signals. But when researcher Chris Reynolds (aka [ECTO-1A](https://github.com/ecto-1a)) began reverse engineering Apple’s BLE stack, he discovered something troubling: iOS was extremely vulnerable to BLE spam.
+The Flipper Zero was originally designed for hobbyists and cybersecurity professionals. It’s a Swiss Army knife for wireless protocols—capable of reading RFID cards, emulating NFC tags, and spoofing Bluetooth signals. But when researcher I (aka [ECTO-1A](https://github.com/ecto-1a)) began reverse engineering Apple’s BLE stack, I discovered that iOS was extremely vulnerable to BLE spam.
 
 By mimicking Apple’s BLE advertisements—used in AirDrop, Handoff, and even Apple Watch pairing—the Flipper Zero could send continuous pop-up requests to iPhones. These requests couldn’t be dismissed easily and, in many cases, would cause system freezes and forced reboots. It effectively turned the Flipper into a denial-of-service (DoS) weapon against nearby Apple devices.
 
