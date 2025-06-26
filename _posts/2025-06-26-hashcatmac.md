@@ -4,6 +4,8 @@ title: "GPU Powered Cracking with Hashcat on Apple Silicon M-Series Macs"
 date: 2025-06-25
 categories: [Cybersecurity, macos, hashcat]
 tags: [hashcat, apple-silicon, gpu, cracking, password, security]
+author: chris
+image: assets/images/hc_mac.png
 ---
 
 If you’ve got one of Apple’s M-series Macs (M1, M1 Pro/Max, M2, M2 Pro/Max, M3, etc.) and you want to unleash its GPU on password cracking, Hashcat’s Metal backend is your friend. Gone are the days of CPU-only runs or Rosetta hacks. Hashcat v6.2.5+ speaks Metal natively, tapping into all those GPU cores.
