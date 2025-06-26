@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "GPU Powered Cracking with Hashcat on Apple Silicon M-Series Macs"
 date: 2025-06-25
