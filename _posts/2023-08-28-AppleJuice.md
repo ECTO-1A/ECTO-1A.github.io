@@ -1,4 +1,5 @@
 ---
+featured: false
 layout: post
 title: Experimenting with Apple Device Proximity Pairing Using Bluetooth Low Energy
 author: chris
