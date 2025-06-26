@@ -356,8 +356,4 @@ Apple Silicon’s GPUs aren’t just for graphics or running local AI models. Wi
 
 *Happy cracking!* 🐾
 
-```
-::contentReference[oaicite:2]{index=2}
-```
-
 [1]: https://gist.github.com/Chick3nman/ccfb883d2d267d94770869b09f5b96ed?utm_source=chatgpt.com "Hashcat v6.2.5-340 benchmark on the Apple M1 Ultra - GitHub Gist"
