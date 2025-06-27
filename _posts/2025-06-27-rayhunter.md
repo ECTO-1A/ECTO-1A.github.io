@@ -6,10 +6,10 @@ date: 2025-06-25
 categories: [Cybersecurity, Privacy, Tools]
 tags: [Rayhunter, EFF, stingray, IMSI catcher, cellular spying]
 author: chris
-image: /assets/images/rayhunter.png
+image: assets/images/rayhunter.png
 ---
 
-If you’ve ever worried that your phone might be communicating with a fake cell tower to spy on you, you’re not alone. Law-enforcement “Stingray” devices, also called IMSI catchers or cell-site simulators (CSS), can impersonate legitimate towers to pinpoint your location, harvest unique device IDs, and—if they choose—even intercept communications. But until now, detecting these devices meant either gutting an Android phone or spending big on software-defined radios. Enter **Rayhunter**: a $20, open-source tool from the Electronic Frontier Foundation (EFF) that runs on an off-the-shelf mobile hotspot and lets anyone [spot potential Stingray activity in real time]{https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying}.
+If you’ve ever worried that your phone might be communicating with a fake cell tower to spy on you, you’re not alone. Law-enforcement “Stingray” devices, also called IMSI catchers or cell-site simulators (CSS), can impersonate legitimate towers to pinpoint your location, harvest unique device IDs, and—if they choose—even intercept communications. But until now, detecting these devices meant either gutting an Android phone or spending big on software-defined radios. Enter **Rayhunter**: a $20, open-source tool from the Electronic Frontier Foundation (EFF) that runs on an off-the-shelf mobile hotspot and lets anyone spot potential Stingray activity in real time. For the full EFF writeup, see https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying .
 
 ---
 
