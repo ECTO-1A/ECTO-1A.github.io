@@ -36,7 +36,7 @@ When such events occur, the hotspot’s screen (or a connected laptop UI) switch
 
 ## Getting Started with Rayhunter
 
-<img width="350" src="/assets/images/orbic.png">
+<img width="350" alt="Orbic RC400L" class="center" src="/assets/images/orbic.png">
 
 1. **Grab the Hardware**  
    - Purchase an Orbic RC400L (or any compatible Linux/Qualcomm 4G hotspot) from Amazon or eBay for around \$20.  
