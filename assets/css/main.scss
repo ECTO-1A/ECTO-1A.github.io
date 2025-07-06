@@ -8,6 +8,125 @@
 	display:inline;
 }
 
+/* Custom styles for Current Projects page */
+.current-projects-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.projects-header {
+    background: linear-gradient(135deg, #00ab6b, #038252);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 15px rgba(0, 171, 107, 0.2);
+}
+
+.projects-header .date-range {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.projects-header .last-updated {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+.projects-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.project-item {
+    background: #fff;
+    border: 1px solid #e3edf3;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.project-title {
+    color: #00ab6b;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #00ab6b;
+    padding-bottom: 0.5rem;
+}
+
+.project-description {
+    line-height: 1.6;
+    color: #333;
+}
+
+.project-description p {
+    margin-bottom: 1rem;
+}
+
+.project-media {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e3edf3;
+}
+
+.project-media h4 {
+    color: #038252;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .current-projects-container {
+        padding: 1rem 0.5rem;
+    }
+
+    .projects-header {
+        padding: 1.5rem;
+    }
+
+    .projects-header .date-range {
+        font-size: 1.1rem;
+    }
+
+    .project-item {
+        padding: 1.5rem;
+    }
+
+    .project-title {
+        font-size: 1.2rem;
+    }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",

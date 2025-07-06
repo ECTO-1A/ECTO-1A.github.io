@@ -7,23 +7,40 @@ nav: true
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="current-projects-container">
+    <div class="projects-header">
+        <div class="date-range">June 30th, 2025 - July 6th, 2025</div>
+        <div class="last-updated">Last Updated: July 3rd, 2025</div>
+    </div>
 
-<p>June 30th, 2025 - July 6th, 2025</p>
+    <div class="projects-content">
 
-<p>- Added external SMA jack to Lenovo T480 to be able to quickly test external antennas. Currently testing L-Com 2.4 GHz 15 dBi Yagi Antenna.<a href="Link">https://www.l-com.com/wireless-antenna-24-ghz-15-dbi-yagi-antenna-12in-n-female-connector</a></p>
+        <div class="project-item">
+            <h3 class="project-title">NOTCHACOTCHA Rebuild & Flipper Zero Integration</h3>
+            <div class="project-description">
+                <p>Started rebuilding the <a href="https://github.com/hevnsnt/NOTCHACOTCHA" target="_blank">NOTCHACOTCHA</a> repo. Planning to build a Flipper Zero compatible board for laser jamming using the Notchacotcha project as a base. I still need to research the laser radar technology currently deployed by local law enforcement.</p>
 
-<p>- Started rebuilding the <a href="https://github.com/hevnsnt/NOTCHACOTCHA">NOTCHACOTCHA</a> repo. Planning to build a Flipper Zero compatible board for laser jamming using the Notchacotcha project as a base. I still need to research current laser radar technology currently deployed by local law enforcement.
-DEFCON Talk:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQtLms02PFM?si=DE-qtQCQZOq3md-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
+                <div class="project-media">
+                    <h4>Related DEFCON Talk:</h4>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/vQtLms02PFM?si=DE-qtQCQZOq3md-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-item">
+            <h3 class="project-title">Lenovo T480 Antenna Modification</h3>
+            <div class="project-description">
+                <p>Added external SMA jack to Lenovo T480 to be able to quickly test external antennas. Currently testing <a href="https://www.l-com.com/wireless-antenna-24-ghz-15-dbi-yagi-antenna-12in-n-female-connector" target="_blank">L-Com 2.4 GHz 15 dBi Yagi Antenna</a>.</p>
+            </div>
+        </div>
+    </div>
 
 
 
 
 
-<!-- <p>Head over to My <a href="https://github.com/ECTO-1A">Github repository</a>!</p> -->
-
+    <!-- <p>Head over to My <a href="https://github.com/ECTO-1A">Github repository</a>!</p> -->
 </div>
 
