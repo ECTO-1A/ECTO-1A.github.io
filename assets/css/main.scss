@@ -37,7 +37,39 @@
 .projects-content {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 3rem;
+}
+
+.day-section {
+    border-left: 4px solid #00ab6b;
+    padding-left: 2rem;
+    margin-bottom: 2rem;
+}
+
+.day-header {
+    margin-bottom: 2rem;
+}
+
+.day-title {
+    color: #00ab6b;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #00ab6b;
+    display: inline-block;
+}
+
+.project-date {
+    background: #f8f9fa;
+    color: #038252;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 0.8rem;
+    border: 1px solid #e3edf3;
 }
 
 .project-item {
@@ -70,6 +102,18 @@
 
 .project-description p {
     margin-bottom: 1rem;
+}
+
+.project-image {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.project-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .project-media {
@@ -118,12 +162,26 @@
         font-size: 1.1rem;
     }
 
+    .day-section {
+        padding-left: 1rem;
+        border-left-width: 3px;
+    }
+
+    .day-title {
+        font-size: 1.5rem;
+    }
+
     .project-item {
         padding: 1.5rem;
     }
 
     .project-title {
         font-size: 1.2rem;
+    }
+
+    .project-date {
+        font-size: 0.8rem;
+        padding: 0.2rem 0.6rem;
     }
 }
 
