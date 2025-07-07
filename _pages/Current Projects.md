@@ -21,7 +21,18 @@ comments: false
             </div>
 
             <div class="project-item">
-                <div class="project-date">July 3rd, 2025</div>
+                <div class="project-date">July 6th, 2025</div>
+                <h3 class="project-title">Solering Fume Extractor 3D Build</h3>
+                <div class="project-description">
+                    <p>I'm building a 3D printed fume extractor for my soldering station using <a href="https://makerworld.com/en/models/1079138-minimalist-soldering-fume-extractor-80mm-pc-fan?from=search#profileId-1070574" target="_blank">80mm PC Fan Soldering Fume Extractor</a>.</p>
+                <div class="project-image">
+                        <img src="/assets/images/fumehood.jpeg" alt="3D Solder Fume Extractor" width="450" style="border: 5px solid black; display: block; margin-left: auto; margin-right: auto;">
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="project-date">July 5th, 2025</div>
                 <h3 class="project-title">NOTCHACOTCHA Rebuild & Flipper Zero Integration</h3>
                 <div class="project-description">
                     <p>Started rebuilding the <a href="https://github.com/hevnsnt/NOTCHACOTCHA" target="_blank">NOTCHACOTCHA</a> repo. Planning to build a Flipper Zero compatible board for laser jamming using the Notchacotcha project as a base. I still need to research the laser radar technology currently deployed by local law enforcement.</p>
