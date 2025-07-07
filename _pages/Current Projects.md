@@ -18,7 +18,9 @@ comments: false
         <div class="project-item">
             <h3 class="project-title">NOTCHACOTCHA Rebuild & Flipper Zero Integration</h3>
             <div class="project-description">
-                <p>Started rebuilding the <a href="https://github.com/hevnsnt/NOTCHACOTCHA" target="_blank">NOTCHACOTCHA</a> repo. Planning to build a Flipper Zero compatible board for laser jamming using the Notchacotcha project as a base. I still need to research the laser radar technology currently deployed by local law enforcement.</p>
+                <p>Started rebuilding the <a href="https://github.com/hevnsnt/NOTCHACOTCHA" target="_blank">NOTCHACOTCHA</a> repo. Planning to build a Flipper Zero compatible board for laser jamming using the Notchacotcha project as a base. I still need to research the laser radar technology currently deployed by local law enforcement.
+                <img src="/assets/images/nc.png" width="450" style="border: 5px solid black; display: block; margin-left: auto; margin-right: auto;">
+                </p>
 
                 <div class="project-media">
                     <h4>Related DEFCON Talk:</h4>
