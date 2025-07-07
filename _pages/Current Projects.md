@@ -24,7 +24,7 @@ comments: false
                 <div class="project-date">July 6th, 2025</div>
                 <h3 class="project-title">Solering Fume Extractor 3D Build</h3>
                 <div class="project-description">
-                    <p>I'm building a 3D printed fume extractor for my soldering station using <a href="https://makerworld.com/en/models/1079138-minimalist-soldering-fume-extractor-80mm-pc-fan?from=search#profileId-1070574" target="_blank">80mm PC Fan Soldering Fume Extractor</a>.</p>
+                    <p>I have a bunch of new 80mm PC fans that I have been looking to use for a project.I decided to finally build a 3D printed fume extractor for my soldering station using <a href="https://makerworld.com/en/models/1079138-minimalist-soldering-fume-extractor-80mm-pc-fan?from=search#profileId-1070574" target="_blank">80mm PC Fan Soldering Fume Extractor</a>.</p>
                 <div class="project-image">
                         <img src="/assets/images/fumehood.jpg" alt="3D Solder Fume Extractor" width="450" style="border: 5px solid black; display: block; margin-left: auto; margin-right: auto;">
                     </div>
