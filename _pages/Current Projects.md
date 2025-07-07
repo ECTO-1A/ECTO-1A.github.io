@@ -15,10 +15,9 @@ comments: false
 
     <div class="projects-content">
 
-        <!-- July 3rd, 2025 -->
+        <!-- June 30th - July 6th, 2025 -->
         <div class="day-section">
             <div class="day-header">
-                <h2 class="day-title">July 3rd, 2025</h2>
             </div>
 
             <div class="project-item">
