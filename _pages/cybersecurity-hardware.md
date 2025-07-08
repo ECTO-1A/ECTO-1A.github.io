@@ -81,6 +81,10 @@ comments: false
 
                         </div>
                         <div class="hardware-links">
+                            <a href="https://github.com/newaetech/chipshouter-picoemp" target="_blank" class="buy-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                Project Repo
+                            </a>
                             <a href="https://electroniccats.com/store/magspoof-v5/" target="_blank" class="buy-link">
                                 <i class="fas fa-shopping-cart"></i>
                                 Buy Here
