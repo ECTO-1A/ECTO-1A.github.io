@@ -78,10 +78,10 @@ comments: false
                         <h3 class="hardware-title">MagSpoof V5</h3>
                         <div class="hardware-description">
                             <p>MagSpoof V5 is the latest and updated version of the famous device that can read (card reader not included), spoof, and emulate any magnetic stripe or credit card”. It can operate “wirelessly”, even on standard magnetic stripe/credit card readers, by generating a powerful electromagnetic field that emulates a traditional magnetic stripe card.</p>
-                            
+
                         </div>
                         <div class="hardware-links">
-                            <a href="PURCHASE_URL" target="_blank" class="buy-link">
+                            <a href="https://electroniccats.com/store/magspoof-v5/" target="_blank" class="buy-link">
                                 <i class="fas fa-shopping-cart"></i>
                                 Buy Here
                             </a>
