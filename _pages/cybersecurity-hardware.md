@@ -50,7 +50,7 @@ comments: false
 
                 <div class="hardware-item">
                     <div class="hardware-image">
-                        <img src="/assets/images/hardware/nrf52840-mdk.jpg" alt="nRF52840 MDK USB Dongle" />
+                        <img src="/assets/images/hardware/nrf.png" alt="nRF52840 MDK USB Dongle" />
                     </div>
                     <div class="hardware-info">
                         <h3 class="hardware-title">nRF52840 MDK USB Dongle</h3>
