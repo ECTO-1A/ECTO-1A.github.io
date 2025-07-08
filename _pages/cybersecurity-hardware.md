@@ -37,12 +37,8 @@ comments: false
                         </div>
                         <div class="hardware-links">
                             <a href="https://flipperzero.one/" target="_blank" class="buy-link">
-                                <i class="fas fa-shopping-cart"></i>
-                                Official Store
-                            </a>
-                            <a href="https://shop.flipperzero.one/" target="_blank" class="buy-link">
                                 <i class="fas fa-external-link-alt"></i>
-                                Shop
+                                Website
                             </a>
                         </div>
                     </div>
@@ -62,10 +58,10 @@ comments: false
                                 <i class="fas fa-external-link-alt"></i>
                                 Documentation
                             </a>
-                            <a href="https://makerdiary.com/products/nrf52840-mdk-usb-dongle" target="_blank" class="buy-link secondary">
+                            <!-- <a href="https://makerdiary.com/products/nrf52840-mdk-usb-dongle" target="_blank" class="buy-link secondary">
                                 <i class="fas fa-shopping-cart"></i>
                                 Buy Here
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
@@ -84,10 +80,10 @@ comments: false
                                 <i class="fas fa-external-link-alt"></i>
                                 Project Repo
                             </a>
-                            <a href="https://electroniccats.com/store/magspoof-v5/" target="_blank" class="buy-link">
+                            <!-- <a href="https://electroniccats.com/store/magspoof-v5/" target="_blank" class="buy-link">
                                 <i class="fas fa-shopping-cart"></i>
                                 Buy Here
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
