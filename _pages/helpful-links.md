@@ -40,6 +40,26 @@ comments: false
                     <h4><a href="https://cve.mitre.org/" target="_blank">CVE Database</a></h4>
                     <p>Common Vulnerabilities and Exposures database</p>
                 </div>
+                <div class="link-item">
+                    <h4><a href="https://keygen.co/" target="_blank">KEYGEN 3D Keys</a></h4>
+                    <p>3D key generation and modeling tools</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://hashcat.net/" target="_blank">Hashcat PMKID Converter</a></h4>
+                    <p>Advanced password recovery and hash cracking tools</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://yandex.com/images/" target="_blank">Yandex Image Search</a></h4>
+                    <p>Reverse image search engine for OSINT investigations</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://www.onlinehashcrack.com/" target="_blank">Online Hash Crack</a></h4>
+                    <p>Online hash cracking and decryption service</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://weakpass.com/" target="_blank">Weakpass Password Lists</a></h4>
+                    <p>Comprehensive password lists and wordlists for security testing</p>
+                </div>
             </div>
         </div>
 
