@@ -25,7 +25,7 @@ comments: false
             </h2>
             <div class="hardware-grid">
                 
-                <!-- Example Item - Replace with your actual items -->
+                <!-- Start of Hardware Items -->
                 <div class="hardware-item">
                     <div class="hardware-image">
                         <img src="/assets/images/hardware/flipper.jpeg" alt="Flipper Zero" />
@@ -40,7 +40,7 @@ comments: false
                                 <i class="fas fa-shopping-cart"></i>
                                 Official Store
                             </a>
-                            <a href="https://shop.flipperzero.one/" target="_blank" class="buy-link secondary">
+                            <a href="https://shop.flipperzero.one/" target="_blank" class="buy-link">
                                 <i class="fas fa-external-link-alt"></i>
                                 Shop
                             </a>
