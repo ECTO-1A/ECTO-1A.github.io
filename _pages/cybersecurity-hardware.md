@@ -11,7 +11,7 @@ comments: false
     <div class="hardware-header">
         <div class="header-content">
             <h1>Cybersecurity Hardware & Tools</h1>
-            <p>A curated collection of physical security tools, hardware devices, and components for cybersecurity professionals and enthusiasts</p>
+            <p>My collection of physical security tools, hardware devices, and components for cybersecurity professionals and enthusiasts</p>
         </div>
     </div>
 
@@ -43,6 +43,28 @@ comments: false
                             <a href="https://shop.flipperzero.one/" target="_blank" class="buy-link secondary">
                                 <i class="fas fa-external-link-alt"></i>
                                 Shop
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="hardware-item">
+                    <div class="hardware-image">
+                        <img src="/assets/images/hardware/nrf52840-mdk.jpg" alt="nRF52840 MDK USB Dongle" />
+                    </div>
+                    <div class="hardware-info">
+                        <h3 class="hardware-title">nRF52840 MDK USB Dongle</h3>
+                        <div class="hardware-description">
+                            <p>Small and low-cost USB dongle that supports Bluetooth 5.4, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary protocols. Perfect for wireless security research, BLE testing, and IoT development.</p>
+                        </div>
+                        <div class="hardware-links">
+                            <a href="https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/" target="_blank" class="buy-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                Documentation
+                            </a>
+                            <a href="https://makerdiary.com/products/nrf52840-mdk-usb-dongle" target="_blank" class="buy-link secondary">
+                                <i class="fas fa-shopping-cart"></i>
+                                Buy Here
                             </a>
                         </div>
                     </div>
