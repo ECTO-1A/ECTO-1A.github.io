@@ -28,7 +28,7 @@ comments: false
                 <!-- Example Item - Replace with your actual items -->
                 <div class="hardware-item">
                     <div class="hardware-image">
-                        <img src="/assets/images/hardware/flipper-zero.jpg" alt="Flipper Zero" />
+                        <img src="/assets/images/hardware/flipper.jpeg" alt="Flipper Zero" />
                     </div>
                     <div class="hardware-info">
                         <h3 class="hardware-title">Flipper Zero</h3>
