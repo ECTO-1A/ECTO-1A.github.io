@@ -60,6 +60,10 @@ comments: false
                     <h4><a href="https://weakpass.com/" target="_blank">Weakpass Password Lists</a></h4>
                     <p>Comprehensive password lists and wordlists for security testing</p>
                 </div>
+                <div class="link-item">
+                    <h4><a href="https://wigle.net/" target="_blank">Wigle WiFi Mapping</a></h4>
+                    <p>WiFi mapping and analysis tool</p>
+                </div>
             </div>
         </div>
 
