@@ -62,7 +62,7 @@ comments: false
                 </div>
                 <div class="link-item">
                     <h4><a href="https://wigle.net/" target="_blank">Wigle WiFi Mapping</a></h4>
-                    <p>WiFi mapping and analysis tool</p>
+                    <p>WiFi, BLuetooth, and cellular mapping and analysis tool</p>
                 </div>
             </div>
         </div>
