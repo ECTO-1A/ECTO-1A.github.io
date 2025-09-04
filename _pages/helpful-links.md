@@ -64,6 +64,15 @@ comments: false
                     <h4><a href="https://wigle.net/" target="_blank">Wigle WiFi Mapping</a></h4>
                     <p>WiFi, BLuetooth, and cellular mapping and analysis tool</p>
                 </div>
+                <div class="link-item">
+                    <h4><a href="https://www.virustotal.com/" target="_blank">VirusTotal</a></h4>
+                    <p>Malware analysis and detection tool</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://www.broadcastify.com" target="_blank">Broadcastify</a></h4>
+                    <p>Radio scanner and monitoring platform (Police scanners)</p>
+                </div>
+                
             </div>
         </div>
 
