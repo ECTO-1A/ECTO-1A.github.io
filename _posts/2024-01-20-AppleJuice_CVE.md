@@ -39,7 +39,7 @@ Several outlets initially credited the exploit to a different alias "Techryptic"
 
 ## Apple’s Response in iOS 17.2
 
-<img src="{{ '/assets/images/cve.png' | relative_url }}" alt="iOS 17.2" width="120" style="vertical-align: middle; margin-left: 8px;">
+<img src="{{ '/assets/images/cve.png' | relative_url }}" alt="iOS 17.2" width="500" style="vertical-align: middle; margin-left: 8px;">
 
 Apple addressed the exploit with the release of iOS 17.2 in December 2023. The patch introduced a timeout mechanism for BLE pairing requests, effectively neutralizing the DoS attack vector. According to tests by [ZDNet](https://www.zdnet.com/article/ios-17-2-update-patches-flipper-zero-bluetooth-exploit/), iPhones now resist the crash loop, though some users may still see fleeting pop-ups.
 
