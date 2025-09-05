@@ -15,7 +15,7 @@ In late 2023, a critical vulnerability in Apple’s Bluetooth Low Energy (BLE) p
 
 ## Flipper Zero: From Penetration Tester to iPhone Jammer
 
-The Flipper Zero was originally designed for hobbyists and cybersecurity professionals. It’s a Swiss Army knife for wireless protocols—capable of reading RFID cards, emulating NFC tags, and spoofing Bluetooth signals. But when researcher I (aka [ECTO-1A](https://github.com/ecto-1a)) began reverse engineering Apple’s BLE stack, I discovered that iOS was extremely vulnerable to BLE spam.
+The Flipper Zero was originally designed for hobbyists and cybersecurity professionals. It’s a Swiss Army knife for wireless protocols—capable of reading RFID cards, emulating NFC tags, and spoofing Bluetooth signals. But when I ([ECTO-1A](https://github.com/ecto-1a)) began reverse engineering Apple’s BLE stack, I discovered that iOS was extremely vulnerable to BLE spam.
 
 By mimicking Apple’s BLE advertisements—used in AirDrop, Handoff, and even Apple Watch pairing—the Flipper Zero could send continuous pop-up requests to iPhones. These requests couldn’t be dismissed easily and, in many cases, would cause system freezes and forced reboots. It effectively turned the Flipper into a denial-of-service (DoS) weapon against nearby Apple devices.
 
@@ -27,7 +27,7 @@ WillyJL also shared his perspective on the project and the broader conversation 
 
 ## Real-World Consequences
 
-While the bug itself was fascinating from a research standpoint, the real-world fallout was swift and chaotic. Students across various schools began abusing the exploit, leading to suspensions and lockdowns. Reports began surfacing of commuters on public trains experiencing sudden iPhone reboots en masse.
+While the bug itself was fascinating from a research standpoint, the real-world fallout was swift and chaotic. Other cybersecurity researchers approached the media claiming credit for the discovery. Students across various schools began abusing the exploit, leading to suspensions and lockdowns. Reports began surfacing of commuters on public trains experiencing sudden iPhone reboots en masse.
 
 One particularly memorable story involved Jeroen van der Ham, who documented his experience on a train in the Netherlands. His phone, along with many others nearby, was rendered unusable until forcibly rebooted.
 
@@ -35,7 +35,7 @@ News of the vulnerability spread quickly, gaining attention from tech outlets in
 
 ## Setting the Record Straight
 
-Several outlets initially credited the exploit to a different alias—"Techryptic"—but Reynolds clarified that he, under the handle ECTO-1A, was solely responsible for the discovery. His research built upon extensive BLE packet analysis and culminated in the creation of "AppleJuice," a proof-of-concept BLE spoofer hosted on [GitHub](https://github.com/ecto-1a/AppleJuice).
+Several outlets initially credited the exploit to a different alias "Techryptic" but but ultimately I was able to provide evidence that I, under the handle ECTO-1A, was solely responsible for the discovery. My research built upon extensive BLE packet analysis and culminated in the creation of "AppleJuice," a proof-of-concept BLE spoofer hosted on [GitHub](https://github.com/ecto-1a/AppleJuice).
 
 ## Apple’s Response in iOS 17.2
 
