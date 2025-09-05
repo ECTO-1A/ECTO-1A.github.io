@@ -186,12 +186,12 @@ comments: false
                     <p>Community marketplace for makers and inventors</p>
                 </div>
                 <div class="link-item">
-                    <h4><a href="https://hak5.org/" target="_blank">Hak5</a></h4>
-                    <p>Security and hacking tools and resources</p>
-                </div>
-                <div class="link-item">
                     <h4><a href="https:/o.mg.lol/" target="_blank">OMG Cable</a></h4>
                     <p>USB cables with an advanced WiFi implant inside. Similar to <a href="https://upload.wikimedia.org/wikipedia/commons/8/85/NSA_COTTONMOUTH-I.jpg" target="_blank" rel="noopener noreferrer">COTTONMOUTH</a></p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://www.datasheets.com/" target="_blank">Datasheets</a></h4>
+                    <p>Electronic components datasheets and documentation</p>
                 </div>
             </div>
         </div>
