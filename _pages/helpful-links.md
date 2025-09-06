@@ -76,6 +76,10 @@ comments: false
                     <h4><a href="https://web.archive.org" target="_blank">Wayback Machine</a></h4>
                     <p>Internet archive and web history</p>
                 </div>
+                <div class="link-item">
+                    <h4><a href="https://pentest-tools.com/information-gathering" target="_blank">Pentest Tools</a></h4>
+                    <p>Information gathering and reconnaissance tools. Subdomain finder.</p>
+                </div>
 
             </div>
         </div>
