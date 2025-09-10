@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: "Encrypting AI Prompts in Images with Python & Steganography"
 date: 2024-01-27

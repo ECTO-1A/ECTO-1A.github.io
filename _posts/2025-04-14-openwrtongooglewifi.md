@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 layout: post
 title: "Installing OpenWRT on Google Wifi (OnHub)"
 date: 2025-04-14
