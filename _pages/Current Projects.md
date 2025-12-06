@@ -9,15 +9,26 @@ comments: false
 
 <div class="current-projects-container">
     <div class="projects-header">
-        <div class="date-range">June 30th, 2025 - July 6th, 2025</div>
-        <div class="last-updated">Last Updated: July 3rd, 2025</div>
+        <div class="date-range">June 30th, 2025 - December 31st, 2025</div>
+        <div class="last-updated">Last Updated: December 6th, 2025</div>
     </div>
 
     <div class="projects-content">
 
-        <!-- June 30th - July 6th, 2025 -->
+        <!-- June  - December 2025 -->
         <div class="day-section">
             <div class="day-header">
+            </div>
+
+            <div class="project-item">
+                <div class="project-date">November 30th, 2025</div>
+                <h3 class="project-title">BPM Meter Using an ESP-32-WROOM</h3>
+                <div class="project-description">
+                    <p>After recently learning that the ESP-32-WROOM has a built-in ADC (Analog to Digital Converter), I started trying to figure out a good project to use it for. I have some knowledge of ADCs and DACs from my EE days, but I haven't used them outside of the context of an SDR. I figured a simple BPM meter would be a good project to help me learn how to use the ADC in a microcontroller. The device will connect to the RCA output or headphone output from a mixer and use the ADC to measure the voltage of the audio signal. It then uses a simple algorithm to calculate the BPM of the music. It also uses a .96" LCD display to show the BPM and a series of resistors and capacitors to filter the signal and keep the voltage at a safe level for the ADC.</p>
+                    <div class="project-image">
+                        <img src="/assets/images/bpm.png" alt="BPM Meter" width="450" style="border: 5px solid black; display: block; margin-left: auto; margin-right: auto;">
+                    </div>
+                </div>
             </div>
 
             <div class="project-item">
