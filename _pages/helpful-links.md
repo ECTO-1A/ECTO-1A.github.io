@@ -197,6 +197,14 @@ comments: false
                     <h4><a href="https://www.datasheets.com/" target="_blank">Datasheets</a></h4>
                     <p>Electronic components datasheets and documentation</p>
                 </div>
+                <div class="link-item">
+                    <h4><a href="https://www.circuitlab.com/" target="_blank">CircuitLab</a></h4>
+                    <p>Online circuit design and simulation tool</p>
+                </div>
+                <div class="link-item">
+                    <h4><a href="https://www.newark.com/uf-nf-pf-capacitor-conversion-table" target="_blank">Capacitor Conversion</a></h4>
+                    <p>Capacitor uF-nF-pF conversion calculator</p>
+                </div>
             </div>
         </div>
 
